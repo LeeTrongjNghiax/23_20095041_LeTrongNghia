@@ -1,0 +1,23 @@
+.form-group {
+  margin-bottom: 0px;
+}
+
+label {
+  text-align: right;
+}
+
+.btn.btn-success {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul > li {
+  padding: 10px;
+}
+
+table > tbody > tr > td {
+  font-weight: bolder;
+}
